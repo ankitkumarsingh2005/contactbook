@@ -3,7 +3,7 @@ import requests
 import time
 import re
 
-API_URL = "http://127.0.0.1:8000"
+API_URL = "https://contactbook-ide6.onrender.com"
 
 
 st.title("📒 Contact Management App")
